@@ -1,9 +1,0 @@
-/* 全体元素的基本样式设置 */
-body {
-    font-family: Arial, sans-serif; /* 设置字体 */
-}
-
-/* 标题的样式 */
-#header {
-    color: blue; /* 初始颜色为蓝色 */
-}
